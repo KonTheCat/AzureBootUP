@@ -32,7 +32,7 @@ Required from you:
 4.	Certification costs: $99 for AZ-900, $165 for each AZ-104 and AZ-305. I will make you aware of any discounts I become aware of. If you work for a large organization already using Azure, you may have something called the Enterprise Skills Initiative that will give you a discount.
 5.  A computer from which you can access Azure. This should be a personal rather than work computer, we will be using tools that are easier to use if you have local administrator privileges. Windows is preferred but only due to my greater familiarity, everything we are doing should be fine on a Mac or Linux system. 
  
-# Policies & Rules
+## Policies & Rules
 1.	Do the work. This is our most important rule.
     1.	I have a strong suspicion that the adage “you are/become what you do” is true.  
 2.	Have a good time and breathe. This is your own practice and learning time. You are expected to make mistakes and struggle here. Ask for help. 
