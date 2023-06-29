@@ -36,4 +36,6 @@ Homework is always due the first day of any weekend.
 | 12/10/2023 | Project Capstone for AZ-305
 | 12/16/2023 | Break - take AZ-305 exam
 | 12/17/2023 | Break - take AZ-305 exam
-| 12/19/2023 | 7PM EST - Acknowledgments and Awards, Where from Here? 
+| 12/19/2023 | 7PM EST - Acknowledgments and Awards, Where from Here?
+
+#test
