@@ -46,4 +46,10 @@ Required from you:
 7.	Sessions will be recorded. Less formal discussions will take place before and after sessions, those will not be recorded. 
 8.	About 80% of session attendance is expected. Active participation is very important – once again, there is high-quality recorded content available and that is a completely viable path. The value that I want to provide here is in this being live and interactive. 
     1.	I understand if you are not comfortable having your camera on all or even most of the time. I would ask that you go on camera when asking a question. 
-    2.	Questions should be asked verbally. Being able to be real-time conversant with these concepts is an important part of interview preparation and real-life performance. 
+    2.	Questions should be asked verbally. Being able to be real-time conversant with these concepts is an important part of interview preparation and real-life performance.
+9. Communication Policies:
+    1. Communications in general ought to be relaxed-professional in tone/demeanor/style.
+    2. Emails should be professional in nature, treat emailing me as practice for emailing a manager - unless you have a customer complaint, in that case you may do you.
+        1. My email for the purposes of this course is kon@konthecat.com.
+    3. Email is considered formal communication. Important understandings/agreements reached in conversation or via chat should be followed up with an as-discussed email - to do so is considered proper form. I will generally model this behavior but you are encouraged to participate also. 
+    4. A lack of response to a communication is acceptance of the contents of that communication, assuming that reasonable time has been given for a response, or that reasonable measures have been taken to follow up (at least once, 24 business hours after the original communication). 
