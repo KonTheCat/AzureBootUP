@@ -20,7 +20,7 @@ I will be looking for the following qualifications:
     2.	An at-least basic understanding of PowerShell. Learn PowerShell in a Month of Lunches would be a good book to go through, for this course and for your life with Microsoft products.
 
 Required from you: 
-1.	Course Fee: $2000. This is intended to be a substantial enough investment to be motivating while still a better value than the same courses from a live training provider.
+1.	Course Fee: $497. This is intended to be a substantial enough investment to be motivating while still a better value than the same courses from a live training provider.
 2.	Time:
     1.	The overall course run time is 14 weeks. During this time, we will have live interactive class sessions on Saturday and Sunday of most weeks, starting at 9AM EST and running for 4 hours at most. The weeks when we do not have class are gaps intended for you to take the certification exam.
     2.	There will be homework. Some parts of the homework will be absolutely required. I will not chase you to find out if you have done it, I expect you to be an adult on this. I will be explicit if not completing a specific assignment requires you to get in touch with me. 
