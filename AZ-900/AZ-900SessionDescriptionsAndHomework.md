@@ -16,7 +16,10 @@ We will get properly introduced to each other and to Azure, specifically as Azur
 2. Select a tenant name for yourself using https://o365.rocks/. It should be something that you would not mind showing up in a professional context. It cannot be changed later, so if you end up keeping this tenant you may regret your choice of tenant name - I do regret mine! 
 3. Read the NIST definition of cloud computing, pages 2 and 3: https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf. Do not worry about understanding every single part, this section is all about that.
 4. Complete this learning path: https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
-5. For this lesson make sure that you have a credit card handy. You will not be charged anything, this is needed to set up an Azure subscription. 
+5. For this lesson make sure that you have a credit card handy. You will not be charged anything, this is needed to set up an Azure subscription.
+6. Purchase or have available a domain name. Any registrar would do fine, I am probably going to move to SquareSpace (https://www.squarespace.com/domain-name-search) because they include domain privacy but you may do cheaper elsewhere without that. Domain privacy mostly lessens the spam and phishing heading your way.
+    1. If this is new to you, this makes for good reading and do not hesitate to ask questions: https://www.paperstreet.com/blog/domains-registrars-name-servers-and-dns-oh-my/. We will be using Azure as our name servers provider so the quality of the management interface provided by the registrar does not matter for much here. 
+    2. I would suggest getting a name that you would not mind showing up in a professional context. If you have dreams of having your own business with a specific name, you may get that name now. 
 
 ## Week 2 - Azure Architecture, Services, Management, and Governance - 9/16 & 17/2023
 

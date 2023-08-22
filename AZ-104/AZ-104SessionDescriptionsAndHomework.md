@@ -18,3 +18,19 @@ We are going to spend some time with Azure Active Directory, the identity servic
     3. What is an advantage of the Azure Resource Manager?
     4. Write a PowerShell or Azure CLI script that creates a custom role in a given subscription that meets the following requirement: A role that would enable the user to read everything relevant about an Azure Virtual Machine from a day to day support perspective and be able to stop, start, and change the size of the virtual machine. The role should use the least number of actions without providing too much access. Explain your choices in at least a few sentences.
     5. Why is resource lifecycle considered the best practice use case for resource groups? What are some alternatives and where do they fall short?
+4. Due before the start of the next week's lessons: Go through labs of lessons 1, 2, and 3 here: https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Instructions/Labs
+
+## Week 5 - Storage: Core Concepts, Additional Features, Storage Management Tools  - 10/7 & 10/8/2023
+
+### Description
+This week we are going to focus on the core storage services within Azure. We will discuss the storage account as a whole and blob and file services. The storage account implements some patterns that we will see throughout our Azure journey: separation between management and data operations, a resource firewall with public and private access options and different authentication options that are service-specific. Blob and file services are very frequently used in Azure environments, we will discuss the use cases and implementation methods of both.
+
+### Homework - due by start of first session of the week, unless otherwise stated
+1. Complete this learning path: https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
+2. Due before the start of the next week's lessons: In an email to me, answer the following questions using complete sentences that you wrote yourself:
+    1. Why are stored access policies useful?
+    2. Is having access from anywhere enabled for a storage account a security problem? Why/why not? If it is a problem, what approaches short of disabling access may be taken to reduce/eliminate the risk?
+    3. What are some fundamental factors to keep in mind when implementing Azure File shares? 
+    4. If you have a requirement to prevent data from being deletable by users for some duration of time but need to allow administrators the flexibility of altering this configuration in the future, what might you do to accomplish this? 
+    5. Why may it be it a good idea to copy an archive blob to a non-archived blob rather than to rehydrate an archived blob?
+3. Due before the start of the next week's lessons: Go through labs of lesson 7 here: https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Instructions/Labs
