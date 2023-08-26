@@ -18,7 +18,7 @@ Homework is always due the first day of any weekend.
 | 10/8/2023  | AZ-104 - Storage: Additional Features, Storage Management Tools
 | 10/14/2023 | AZ-104 - Compute: Virtual Machines, VM Extensions & Features, VM Scale Set
 | 10/15/2023 | AZ-104 - Compute: App Service, Container Service, Azure Kubernetes Service
-| 10/21/2023 | AZ-104 - Networking: DNS, Network Security Groups, Custom Routing, Firewalls
+| 10/21/2023 | AZ-104 - Networking: vNet, DNS, Network Security Groups, Custom Routing
 | 10/22/2023 | AZ-104 - Networking: Virtual Network Gateway, Load Balancer, App Gateway
 | 10/28/2023 | AZ-104 - Backup, Disaster Recovery, and Monitoring
 | 10/29/2023 | Project Capstone for AZ-104
@@ -36,4 +36,4 @@ Homework is always due the first day of any weekend.
 | 12/10/2023 | Project Capstone for AZ-305
 | 12/16/2023 | Break - take AZ-305 exam
 | 12/17/2023 | Break - take AZ-305 exam
-| 12/19/2023 | 7PM EST - Acknowledgments and Awards, Where from Here?
+| 12/19/2023 | 7PM EST - Acknowledgments and Awards, Where to from here?
