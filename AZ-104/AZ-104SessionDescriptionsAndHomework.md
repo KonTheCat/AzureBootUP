@@ -77,3 +77,14 @@ This week we will review options for backup, disaster recovery, and monitoring w
     3. What are some unique features and characteristics to keep in mind when implementing a Recovery Services vault? 
     4. Does Azure provide a uniform monitoring experience? How would you describe the overall experience to a coworker? 
 3. Due before the start of the next week's lessons: Go through labs of lessons 10 and 11 here: https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
+
+## Week 9 - Take AZ-104 Exam - no sessions, next session is start of AZ-305 section on 11/11/2023
+
+### Description
+
+During this week and weekend you are expected to take the AZ-104 exam. Please treat this one seriously. Some say that this is harder than the architect certification after this one.  
+
+### Homework
+
+1. You may use the practice assessment for AZ-104 found here to practice: https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications#availability
+2. Please complete the capstone before the start of the next section. It is designed to practice many of the areas we covered in this course.
