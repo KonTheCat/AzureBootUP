@@ -10,11 +10,11 @@ Scenario: IoT Thing Co. is, as you may have surmised, an IoT company. You are wo
 3.	Disaster recovery planning is critical. The company wishes to have disaster recovery capabilities within each of the countries it operates in, without fragmenting the data between different regions where that is avoidable.
 4.	Environment separation and governance are important. Both the CEO and CTO expressed a desire to have very clear and non-permeable lines drawn between production, testing and development environments. It is acceptable for data movement between these environments to be manual and inconvenient. 
 5.	These are the technical requirements: 
-  a.	Implement a simple website.This website is to be used for marketing and account management tasks only. 
-  b.	Implement an API that mobile (Android, iOS) clients would connect to. These clients will be used for managing the IoT devices.
-  c.	Implement an IoT device back-end. This is to be used for IoT devices to communicate to the service, sending logs and receiving commands.
-  d.	Log data is to be processed and stored in a database. The company is flexible on database choice, ultimately everyone knows SQL and is willing to learn a new service if there are significant advantages to doing so.
-  e.	Users should be able to use their existing social identities or usernames and passwords they choose for authentication.
+  1.	Implement a simple website. This website is to be used for marketing and account management tasks only. 
+  2.	Implement an API that mobile (Android, iOS) clients would connect to. These clients will be used for managing the IoT devices.
+  3.	Implement an IoT device back-end. This is to be used for IoT devices to communicate to the service, sending logs and receiving commands.
+  4.	Log data is to be processed and stored in a database. The company is flexible on database choice, ultimately everyone knows SQL and is willing to learn a new service if there are significant advantages to doing so.
+  5.	Users should be able to use their existing social identities or usernames and passwords they choose for authentication.
 
 Notes: 
 1.	You may find this reading material absolutely riveting: https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/what-rules-apply-if-my-organisation-transfers-data-outside-eu_en
