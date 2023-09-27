@@ -21,7 +21,7 @@ Homework is always due the first day of any weekend.
 | 10/21/2023 | AZ-104 - Networking: vNet, DNS, Network Security Groups, Custom Routing
 | 10/22/2023 | AZ-104 - Networking: Virtual Network Gateway, Load Balancer, App Gateway
 | 10/28/2023 | AZ-104 - Backup, Disaster Recovery, and Monitoring
-| 10/29/2023 | Project Capstone for AZ-104
+| 10/29/2023 | Project Capstone for AZ-104, Review
 | 11/4/2023  | Break - take AZ-104 exam
 | 11/5/2023  | Break - take AZ-104 exam
 | 11/11/2023 | AZ-305 - Design governance
@@ -33,7 +33,7 @@ Homework is always due the first day of any weekend.
 | 12/2/2023  | AZ-305 - Design network solutions
 | 12/3/2023  | AZ-305 - Design backup and disaster recovery
 | 12/9/2023  | AZ-305 - Design migrations
-| 12/10/2023 | Project Capstone for AZ-305
+| 12/10/2023 | Project Capstone for AZ-305, Review
 | 12/16/2023 | Break - take AZ-305 exam
 | 12/17/2023 | Break - take AZ-305 exam
 | 12/19/2023 | 7PM EST - Acknowledgments and Awards, Where to from here?
