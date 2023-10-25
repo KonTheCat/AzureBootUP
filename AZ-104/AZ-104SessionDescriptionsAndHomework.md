@@ -70,7 +70,7 @@ This week we will be focusing on Azure networking. We will begin with a single n
 This week we will review options for backup, disaster recovery, and monitoring within Azure. We will compare Azure Backup with Azure Site Recovery and get familiarized with the different approaches and capabilities available under the Azure Monitor umbrella. 
 
 ### Homework
-1. Due by start of first lesson: Complete this learning path: https://learn.microsoft.com/en-us/training/paths/az-104-manage-virtual-networks/
+1. Due by start of first lesson: Complete this learning path: https://learn.microsoft.com/en-us/training/paths/az-104-monitor-backup-resources/
 2. Due before the start of the next week's lessons: In an email to me, answer the following questions using complete sentences that you wrote yourself:
     1. If you could implement only Azure Backup or Azure Site Recovery, which would you choose? What factors might make you reverse your choice? 
     2. What is different between how backups are done for Azure File shares and what one might expect from a traditional backup solution?
