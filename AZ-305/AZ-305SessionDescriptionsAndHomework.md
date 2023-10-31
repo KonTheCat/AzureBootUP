@@ -11,8 +11,12 @@ This week we will begin the architect section of the curriculum. We will start w
 1. Due by start of first lesson: Complete these learning paths: 
     1. https://learn.microsoft.com/en-us/training/modules/design-governance/
     2. https://learn.microsoft.com/en-us/training/modules/design-compute-solution/
+2. Bonus content - not required, but strongly advised:
+    1. Future iteration on Blueprints: https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-stacks?tabs=azure-powershell
+    2. Landing Zone: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
+        1. Read above article, then click around in the larger CAF subject area and read whatever interests you. 
 
-2. Due before the start of the next week's lessons: In an email to me, answer the following questions using complete sentences that you wrote yourself:
+3. Due before the start of the next week's lessons: In an email to me, answer the following questions using complete sentences that you wrote yourself:
     1. What is the difference between Azure Policy and RBAC? If you could only implement one well in your organization, which would you choose and why? What would make you change your answer? 
     2. Why are decisions about resource group naming and resource placement so important in Azure?
     3. What are some best practice recommendations for implementing resource tags? What tags do you consider critical and why?
