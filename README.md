@@ -1,4 +1,4 @@
 # AzureBootUP
 Labs, notes and other documents for a course covering Azure Fundamentals, Administrator and Architect certifications.
 
-If you would like to sign up, attend an information session, or if you have questions, please use this form: https://forms.office.com/r/crNPjUEXrf.
+Azure BootUP is not accepting applicants at this time. KonTheCat is committed to supporting Azure journeys. Reach out to kon@konthecat.com for more information/potential alternatives.
